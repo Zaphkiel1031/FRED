@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Data files
+*.json
+*.csv
+
+# FRED API key (ensure it's not committed)
+known_IDs.py
+categories.py
+series.py
+
+# Environment variables
+.env
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+env/
+
+# Python package files
+*.egg-info/
+dist/
+build/
+
+# Others
+*.bak
+*.swp
+*.swo
