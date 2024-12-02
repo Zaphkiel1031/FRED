@@ -6,15 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-# Data files
-*.json
-*.csv
-
-# FRED API key (ensure it's not committed)
-known_IDs.py
-categories.py
-series.py
-
 # Environment variables
 .env
 
