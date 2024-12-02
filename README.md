@@ -1,4 +1,4 @@
-# README for FRED Data Processing Scripts
+# FRED Data Processing Scripts
 
 ## Overview
 This repository contains three Python scripts designed to interact with the FRED (Federal Reserve Economic Data) API to collect, process, and store economic data. The scripts retrieve top-level economic data categories, download specific data series, and organize the data into structured formats.
